@@ -1,0 +1,23 @@
+--- Analysis Results ---
+1. Correlation between Years Experience and CPA Likelihood: -0.0554
+2. Segmentation Analysis (Mean CPA Likelihood & Perception):
+   - Working in CPA Firm (Q47/Q17):              CPA_Likelihood_Score       Perception_Score
+                              mean count             mean count
+Work_CPA_Firm
+No                        3.808140   172         3.918605   172
+Yes                       4.333333    27         4.185185    27
+   - Working 20+ Hours in Accounting (Q46/Q16):               CPA_Likelihood_Score       Perception_Score
+                               mean count             mean count
+Work_20hrs_Acc
+No                         3.724490    98         3.928571    98
+Yes                        4.029703   101         3.980198   101
+3. Experience Brackets Means:
+                    CPA_Likelihood_Score  Perception_Score
+Experience_Bracket
+0 years                         4.800000          4.000000
+1-2 years                       4.000000          3.285714
+3-5 years                       4.700000          3.700000
+5+ years                        4.321429          3.500000
+4. Qualitative Synergy (Top 10 Keywords in Reasoning):
+   - 0 Years Experience Group:[('accounting', 5), ('field', 3), ('working', 2), ('long', 2), ('able', 2), ('having', 2), ('degree', 2), ('still', 2), ('going', 2), ('pursue', 2)]
+   - 5+ Years Experience Group:[('can', 10), ('will', 7), ('accounting', 7), ('additional', 6), ('degree', 6), ('time', 6), ('because', 6), ('knowledge', 5), ('still', 5), ('think', 5)]
